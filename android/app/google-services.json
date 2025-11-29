@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "6837170298",
+    "project_id": "shram-saathi-py098a",
+    "storage_bucket": "shram-saathi-py098a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6837170298:android:b037230994a5f984164bc3",
+        "android_client_info": {
+          "package_name": "com.example.gramsetu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqV0S0FNTuLdOkbP-dUglzW83OCyRDcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6837170298:android:36b5c3d6d31cee2d164bc3",
+        "android_client_info": {
+          "package_name": "com.mycompany.shramsaathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqV0S0FNTuLdOkbP-dUglzW83OCyRDcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
